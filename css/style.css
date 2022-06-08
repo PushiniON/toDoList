@@ -122,13 +122,3 @@ input {
 .addBtn:hover {
 	background-color: #bbb;
 }
-
-/* @media (min-width: 992px) {
-	.containerInput {
-		width: 90%;
-	}
-
-	input {
-		width: 60%;
-	}
-} */
